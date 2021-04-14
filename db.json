@@ -1,4 +1,22 @@
 {
+  "productOfferingQualificationCreationNotification": {
+    "result": "Product Offering Qualification Creation Notification"
+  },
+  "productOfferingQualificationStateChangeNotification": {
+    "result": "Product Offering Qualification State Change Notification"
+  },
+  "quoteCreationNotification": {
+    "result": "Quote Creation Notification"
+  },
+  "quoteStateChangeNotification": {
+    "result": "Quote State Change Notification"
+  },
+  "quoteAttributeValueChangeNotification": {
+    "result": "Quote Attribute Value Chang eNotification"
+  },
+  "quoteInformationRequiredNotification": {
+    "result": "Quote Information Required Notification"
+  },
   "productOrderCreationNotification": {
     "result": "Product Order Creation Notification"
   },
