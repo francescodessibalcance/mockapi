@@ -9,5 +9,8 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "productOrderCreationNotification": {
+    "status": "Product Order Creation Notification OK"
   }
 }
