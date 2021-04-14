@@ -10,7 +10,7 @@
   },
   "quoteStateChangeNotification": {
     "result": "Quote State Change Notification"
-  }
+  },
   "productOrderCreationNotification": {
     "result": "Product Order Creation Notification"
   }
