@@ -10,23 +10,8 @@
   },
   "quoteStateChangeNotification": {
     "result": "Quote State Change Notification"
-  },
-  "quoteAttributeValueChangeNotification": {
-    "result": "Quote Attribute Value Chang eNotification"
-  },
-  "quoteInformationRequiredNotification": {
-    "result": "Quote Information Required Notification"
-  },
+  }
   "productOrderCreationNotification": {
     "result": "Product Order Creation Notification"
-  },
-  "productOrderStateChangeNotification": {
-    "result": "Product Order State Change Notification"
-  },
-  "productOrderAttributeValueChangeNotification": {
-    "result": "Product Order Attribute Value Change Notification"
-  },
-  "productOrderInformationRequiredNotification": {
-    "result": "Product Order Information Require Notification"
   }
 }
