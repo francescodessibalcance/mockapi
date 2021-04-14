@@ -25,7 +25,7 @@
       "postId": 1
     }
   ],
-  "productOrderCreationNotification": {
+  "poq": {
     "result": "Product Order Creation Notification"
   }
 }
