@@ -11,6 +11,6 @@
     "post": "Post"
   },
   "productOrderCreationNotification": {
-    "status": "Product Order Creation Notification OK"
+    "status": "string"
   }
 }
