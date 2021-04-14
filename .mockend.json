@@ -11,7 +11,7 @@
     "post": "Post",
      "status": "string"
   },
-  "productOrderCreationNotification": {
+  "ProductOrderCreationNotification": {
     "status": "string"
   }
 }
