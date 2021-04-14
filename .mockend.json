@@ -12,6 +12,6 @@
      "status": "string"
   },
   "ProductOrderCreationNotification": {
-    "status": "string"
+    "status": "OK"
   }
 }
